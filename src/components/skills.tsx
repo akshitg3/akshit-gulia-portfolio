@@ -1,4 +1,3 @@
-import React from "react";
 import SectionHeading from "./section-heading";
 import { skillsData } from "../data/data";
 import { useSectionInView } from "../hooks/useSectionInView";
