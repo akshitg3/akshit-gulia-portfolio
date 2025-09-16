@@ -7,7 +7,7 @@ import portrait from "../assets/portrait.jpg";
 import { MdEmail } from "react-icons/md";
 
 export default function Intro() {
-  const { ref } = useSectionInView("Home", 0.5);
+  const { ref } = useSectionInView("Home");
 
   return (
     <section
