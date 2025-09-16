@@ -34,15 +34,18 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "MongoDB",
   "Redux",
   "GraphQL",
   "Apollo",
   "Express",
+  "MongoDB",
   "PostgreSQL",
   "Python",
   "Django",
-  "Framer Motion",
+  "Java",
+  "Spring Boot",
+  "C/C++",
+  "AWS"
 ] as const;
 
 export const experiencesData = [
