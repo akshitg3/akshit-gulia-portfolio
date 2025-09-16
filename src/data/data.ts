@@ -52,7 +52,7 @@ export const experiencesData = [
     companyName: "goeasy ltd.",
     description: `Architected a scalable relational content model in Contentful to support a dynamic frontend for goeasy’s loan
 application web app, reducing the marketing team’s dependency on developer support for content updates.; Developed a custom React + TypeScript Contentful app with an intuitive UI, enabling marketing team to easily define
-conditions for rendering a question in goeasy’s loan application web app.;Optimized Next.js + React frontend performance in the goeasy Connect web app by streamlining API calls,
+conditions for rendering a question in goeasy’s loan application web app.;Optimized Next.js frontend performance in the goeasy Connect web app by streamlining API calls,
 reducing load times by ∼300 ms and improving responsiveness for thousands of concurrent users.;Automated data extraction and JSON transformation for a key component of the easyfinancial web app serving
 60,000+ weekly users, ensuring data integrity and saving 7.5 hours of manual effort.`,
     icon: goeasyLogo,
