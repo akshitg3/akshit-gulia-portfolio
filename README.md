@@ -1,6 +1,6 @@
-# akshit-portfolio
+# akshit-gulia-portfolio
 
-Personal portfolio website for Akshit (GitHub: `akshitg3`). This project is a small, fast, and responsive single-page portfolio.
+Personal portfolio website for Akshit Gulia (GitHub: `akshitg3`). This project is a small, fast, and responsive single-page portfolio.
 
 ## Purpose
 
